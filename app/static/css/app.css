@@ -1,3 +1,70 @@
-body {
+body{
     padding-top: 5rem;
 }
+
+img{
+  height: 130px;
+  width: 150px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 50%;
+}
+
+header{
+  background: teal;  
+  text-align: center;
+  color: white;
+}
+
+h1{
+  color:white;
+  font-weight: bold;
+  text-align: center;
+}
+
+#about{
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: grey;
+}
+
+#info{
+  column-count: 3;
+  padding: 10px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+
+#info p{
+  color: grey;
+}
+
+button{
+  background-color: #7ED321;
+  width: 150px;
+  height: 50px;
+  border-radius:15px;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
